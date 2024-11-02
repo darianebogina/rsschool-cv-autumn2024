@@ -37,11 +37,11 @@ function getDistanceBetweenPoints(x1, y1, x2, y2) {
 ---
 
 ## Education
-* Master’s Degree | Voronezh State University | 2024 – Present 
+* Master’s Degree, Voronezh State University,  2024 – Present 
   - Information Systems and Technologies 
-* JS/FE Pre-School 2024Q2 (JavaScript) | The Rolling Scopes School | 2024 
+* JS/FE Pre-School 2024Q2 (JavaScript), The Rolling Scopes School, 2024 
   - Fundamentals of JavaScript and Front-End Development 
-* Bachelor’s Degree | Voronezh State University | 2020 – 2024 
+* Bachelor’s Degree, Voronezh State University, 2020 – 2024 
   - Mathematics and Computer Science 
 
 ---
