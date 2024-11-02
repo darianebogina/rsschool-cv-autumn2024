@@ -13,6 +13,8 @@
 
 ## About Me
 
+In the autumn of 2024, I enrolled in the Master’s program at the Faculty of Computer Science at Voronezh State University and completed the Stage 0 of RS School. I plan to complete assignments with high quality to build up my resume and finally find a job.
+
 ---
 
 ## Skills
@@ -31,7 +33,6 @@
 function getDistanceBetweenPoints(x1, y1, x2, y2) {
   return Math.sqrt((x2 - x1) ** 2 + (y2 - y1) ** 2);
 }
-
 ```
 ---
 
