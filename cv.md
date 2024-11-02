@@ -25,23 +25,22 @@
 ---
 ## Code example:
 ```javascript
-function sumTriangularNumbers(n) {
- if (n < 0) return 0;
- let sum = 0;
-   for (let i = 1; i <= n; i++) {
-   sum += (i * (i + 1)) / 2;
-  }
-  return sum;
+// Returns a distance between two points by cartesian coordinates.
+// example:  (0,0) (0,1)    => 1
+
+function getDistanceBetweenPoints(x1, y1, x2, y2) {
+  return Math.sqrt((x2 - x1) ** 2 + (y2 - y1) ** 2);
 }
+
 ```
 ---
 
 ## Education
-* Master’s Degree, Voronezh State University – 2024 – Present 
+* Master’s Degree | Voronezh State University | 2024 – Present 
   - Information Systems and Technologies 
-* JS/FE Pre-School 2024Q2 (JavaScript), The Rolling Scopes School – 2024 
-Fundamentals of JavaScript and Front-End Development 
-* Bachelor’s Degree, Voronezh State University – 2020 – 2024 
+* JS/FE Pre-School 2024Q2 (JavaScript) | The Rolling Scopes School | 2024 
+  - Fundamentals of JavaScript and Front-End Development 
+* Bachelor’s Degree | Voronezh State University | 2020 – 2024 
   - Mathematics and Computer Science 
 
 ---
